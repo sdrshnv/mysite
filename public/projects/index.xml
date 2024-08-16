@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sudarshan Vankudre</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Sudarshan Vankudre</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tjern</title>
+      <link>http://localhost:1313/projects/tjern/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tjern/</guid>
+      <description>In the past, I often found myself with feelings that I wanted to quickly express, but couldn&amp;rsquo;t, being next to a computer with my journal and pen out of reach. Privacy has also appealed to me, the idea of nobody else being able to read my content. Combining these two motivations, I created Tjern (terminal journal), a lightweight command line journaling app that encrypts all your entries on your machine before saving them to the cloud, never lost.</description>
+    </item>
+  </channel>
+</rss>
