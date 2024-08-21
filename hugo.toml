@@ -54,9 +54,9 @@ url = "/"
 # name = "projects"
 # url = "/projects"
 
-[[params.menu]]
-name = "resume"
-url = "/resume.pdf"
+# [[params.menu]]
+# name = "resume"
+# url = "/resume.pdf"
 
 # Syntax highlight on code blocks
 [markup]
