@@ -11,7 +11,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Sudarshan Vankudre"
 
 # Appearance settings
 theme = 'auto'
@@ -21,11 +21,11 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I'm a software engineer who enjoys building things.
+I'm a software engineer who enjoys building things. 
 """
 
 # Collection to display on home
-homeCollectionTitle = "Stuff I've Built"
+homeCollectionTitle = "Projects"
 homeCollection = 'projects'
 
 # Lists parameters
@@ -50,15 +50,15 @@ url = "https://github.com/sdrshnv"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "projects"
-url = "/projects"
+# [[params.menu]]
+# name = "projects"
+# url = "/projects"
 
 [[params.menu]]
-name = "about"
-url = "/about"
+name = "resume"
+url = "/resume.pdf"
 
-# Syntax highligth on code blocks
+# Syntax highlight on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
