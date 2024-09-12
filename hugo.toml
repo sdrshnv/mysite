@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sdrshnv.github.io/mysite/'
 languageCode = 'en-us'
 title = 'Sudarshan Vankudre'
 theme = 'typo'
